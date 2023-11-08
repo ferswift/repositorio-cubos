@@ -13,3 +13,5 @@ const numerosFiltrados = numeros.filter((numeros) => {
 console.log(numerosFiltrados);
 
 console.log("Mais uma mensagem");
+
+console.log("Adicionei uma License MIT");
