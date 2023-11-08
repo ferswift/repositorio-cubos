@@ -11,3 +11,5 @@ const numerosFiltrados = numeros.filter((numeros) => {
 });
 
 console.log(numerosFiltrados);
+
+console.log("Mais uma mensagem");
