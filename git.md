@@ -13,3 +13,5 @@
 # git remote add origin = vincula o repositório local a um repositório remoto.
 
 # git push = envia todas as alterações do repositório local para um repositório remoto.
+
+# git ??
