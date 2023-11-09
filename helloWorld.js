@@ -15,3 +15,8 @@ console.log(numerosFiltrados);
 console.log("Mais uma mensagem");
 
 console.log("Adicionei uma License MIT");
+
+for (let i = 0; i < array.length; i++) {
+  const element = array[i];
+}
+
