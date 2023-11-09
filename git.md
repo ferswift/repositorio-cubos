@@ -15,3 +15,5 @@
 # git push = envia todas as alterações do repositório local para um repositório remoto.
 
 # git ??
+
+# git giobaninha amo demais
