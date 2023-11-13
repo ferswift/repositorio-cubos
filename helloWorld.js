@@ -16,7 +16,20 @@ console.log("Mais uma mensagem");
 
 console.log("Adicionei uma License MIT");
 
-for (let i = 0; i < array.length; i++) {
-  const element = array[i];
+for (let i = 0; i <= 10; i++) {
+  console.log(i);
 }
 
+const frutas = ["maçã", "banana", "laranja", "uva", "pera"];
+
+for (const fruta of frutas) {
+  console.log(fruta);
+}
+
+let count = 0;
+
+while (count <= 10) {
+  count++;
+  console.log(count);
+  console.log("looping");
+}
